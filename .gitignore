@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.sqlite3
+
+# keys / service accounts
+*.json
+*.pem
+
+# OS
+.DS_Store
+
+# logs and local data
+logs/
+*.log

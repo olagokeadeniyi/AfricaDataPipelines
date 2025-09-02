@@ -1,0 +1,11 @@
+requests
+pandas
+pyarrow
+google-cloud-storage
+google-cloud-bigquery
+pandasdmx
+sqlalchemy
+psycopg2-binary
+boto3
+beautifulsoup4
+python-dotenv
